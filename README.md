@@ -1,6 +1,6 @@
 <h1 align="center">Marcos Martins</h1>
 <p align="center">
-  <strong>IT · Web Dev · Braunschweig 🇩🇪</strong><br>
+  <strong>IT · Web Dev · </strong><br>
   🎯 Suche <strong>Ausbildung Fachinformatiker</strong>
 </p>
 <p align="center">
