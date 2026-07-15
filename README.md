@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="brain_animation.svg" alt="Neural Network Animation" width="100%" />
+  <img src="brain_v2.svg" alt="Neural Network Animation" width="100%" />
   
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FFCC&center=true&vCenter=true&width=600&lines=IT+Professional+|+Web+Developer;Suche+Ausbildung+Fachinformatiker;Turning+Ideas+into+Software;Passionate+about+Technology)](https://git.io/typing-svg)
   
