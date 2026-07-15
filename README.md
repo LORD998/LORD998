@@ -1,27 +1,63 @@
-<h1 align="center"> Martins</h1>
-<p align="center">
-  <strong>IT · Web Dev · </strong><br>
-  🎯 Suche <strong>Ausbildung Fachinformatiker</strong>
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white" alt="TS">
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JS">
-  <img src="https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white" alt="PHP">
-  <img src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white" alt="Node">
-  <img src="https://img.shields.io/badge/-React-20232A?logo=react&logoColor=61DAFB" alt="React">
-  <img src="https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black" alt="Linux">
-  <img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white" alt="Docker">
-  <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white" alt="Git">
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/🇵🇹-PT-blue" alt="PT">
-  <img src="https://img.shields.io/badge/🇩🇪-DE (B1)-blue" alt="DE">
-  <img src="https://img.shields.io/badge/🇬🇧-EN-blue" alt="EN">
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LORD998&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Stats" height="150">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LORD998&layout=compact&theme=tokyonight&hide_border=true" alt="Langs" height="150">
-</p>
-<p align="center">
-  📫 <a href="mailto:seu@email.com">Email</a> · <a href="https://linkedin.com/in/seu-perfil">LinkedIn</a>
-</p>
+<div align="center">
+  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=250&section=header&text=Marcos%20Martins&fontSize=70&fontAlignY=35&animation=twinkling&fontColor=ffffff" width="100%" />
+
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=IT+Professional+|+Web+Developer;Suche+Ausbildung+Fachinformatiker;Turning+Ideas+into+Software;Passionate+about+Technology)](https://git.io/typing-svg)
+
+</div>
+
+<br/>
+
+<div align="center">
+  <a href="mailto:teu_email_real@aqui.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://linkedin.com/in/teu-linkedin-real">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/LORD998">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</div>
+
+<br/>
+
+## 💻 Tech Stack & Skills
+
+<div align="center">
+
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=LORD998&show_icons=true&theme=react&hide_border=true&count_private=true&bg_color=0d1117&title_color=8A2BE2&icon_color=8A2BE2" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LORD998&layout=compact&theme=react&hide_border=true&bg_color=0d1117&title_color=8A2BE2" alt="Top Languages" width="48%" />
+</div>
+
+---
+
+## 🌍 Languages
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Portuguese-Native-2E8B57?style=flat-square&logo=google-translate&logoColor=white" alt="PT" />
+  <img src="https://img.shields.io/badge/German-B1_Level-FFA500?style=flat-square&logo=google-translate&logoColor=white" alt="DE" />
+  <img src="https://img.shields.io/badge/English-Fluent-4169E1?style=flat-square&logo=google-translate&logoColor=white" alt="EN" />
+</div>
+
+<br/>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="80%" />
+</div>
