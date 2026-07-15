@@ -1,6 +1,6 @@
 <div align="center">
   
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Martins&fontSize=75&fontAlignY=35&animation=twinkling&fontColor=ffffff" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Rede%20Neural&fontSize=75&fontAlignY=35&animation=twinkling&fontColor=ffffff" width="100%" />
 
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FFCC&center=true&vCenter=true&width=600&lines=IT+Professional+|+Web+Developer;Suche+Ausbildung+Fachinformatiker;Turning+Ideas+into+Software;Passionate+about+Technology)](https://git.io/typing-svg)
 
