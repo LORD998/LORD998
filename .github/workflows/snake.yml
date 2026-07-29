@@ -18,13 +18,13 @@ jobs:
     timeout-minutes: 5
 
     steps:
-      - name: Generate neon LED contribution snakes
+      - name: Generate contribution snakes
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-contribution-grid-snake.svg?palette=github-light&color_snake=#00e5ff&color_dots=#ebedf0,#a7f3d0,#34d399,#06b6d4,#8b5cf6
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#39ff14&color_dots=#0d1117,#063b2b,#00ff9d,#00e5ff,#a855f7
+            dist/github-contribution-grid-snake.svg?palette=github-light&color_snake=#0f766e&color_dots=#ebedf0,#d5f5ef,#9de7dd,#63a9e6,#7766d7
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#66f7d5&color_dots=#0d1117,#10252b,#16434e,#3c67a8,#8e80ff
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
