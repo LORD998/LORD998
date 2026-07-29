@@ -48,7 +48,13 @@
 
 ---
 
+## 🚀 Featured Projects
 
+<div align="center">
+  <a href="https://github.com/LORD998/cortex-ai">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=LORD998&repo=cortex-ai&theme=react&hide_border=true&bg_color=0d1117&title_color=00FFCC&icon_color=00FFCC" alt="Cortex AI Project" />
+  </a>
+</div>
 
 ---
 
