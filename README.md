@@ -49,8 +49,18 @@ I am a Portuguese IT and web development professional based in Braunschweig, Ger
 ## GitHub activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LORD998&show_icons=true&theme=react&hide_border=true&count_private=true&bg_color=0d1117&title_color=66f7d5&icon_color=b78cff" alt="Marcos's GitHub statistics" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=LORD998&show_icons=true&theme=react&hide_border=true&count_private=true&bg_color=0d1117&title_color=66f7d5&icon_color=b78cff" alt="Martins's GitHub statistics" width="49%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LORD998&layout=compact&theme=react&hide_border=true&bg_color=0d1117&title_color=66f7d5" alt="Most used languages" width="49%" />
+</div>
+
+### 🐍 LED contribution snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LORD998/LORD998/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LORD998/LORD998/output/github-contribution-grid-snake.svg" />
+    <img src="https://raw.githubusercontent.com/LORD998/LORD998/output/github-contribution-grid-snake-dark.svg" alt="LED snake eating Martins's GitHub contributions" width="100%" />
+  </picture>
 </div>
 
 ## Languages
