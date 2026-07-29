@@ -1,72 +1,81 @@
 <div align="center">
-  <img src="brain_v2.svg" alt="Neural Network Animation" width="100%" />
-  
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FFCC&center=true&vCenter=true&width=600&lines=IT+Professional+|+Web+Developer;Suche+Ausbildung+Fachinformatiker;Turning+Ideas+into+Software;Passionate+about+Technology)](https://git.io/typing-svg)
-  
+<img src="brain_v3.svg" alt="Animated neural network banner for Martins" width="100%" />
 </div>
 
-<br/>
+<br />
 
 <div align="center">
-  <a href="mailto:teu_email_real@aqui.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://linkedin.com/in/teu-linkedin-real">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <a href="mailto:martinsmarcosq@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://github.com/LORD998">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </div>
 
-<br/>
+## About me
 
-## 💻 Tech Stack & Skills
+I am a Portuguese IT and web development professional based in Braunschweig, Germany. I enjoy building practical software, automating repetitive work and turning ideas into working products.
 
-<div align="center">
+- Open to remote opportunities and IT training positions
+- Interested in web development, automation, local AI tools and technical support
+- Currently improving my German and English
 
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-
-</div>
-
----
-
-## 📊 GitHub Analytics
+## Tech stack
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LORD998&show_icons=true&theme=react&hide_border=true&count_private=true&bg_color=0d1117&title_color=8A2BE2&icon_color=8A2BE2" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LORD998&layout=compact&theme=react&hide_border=true&bg_color=0d1117&title_color=8A2BE2" alt="Top Languages" width="48%" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </div>
 
----
+## Featured projects
 
-## 🚀 Featured Projects
+| Project | What it does | Main technologies |
+| --- | --- | --- |
+| [Cortex AI](https://github.com/LORD998/Cortex-AI) | Local Windows voice assistant powered by Ollama, with a PyQt6 interface and system automation modules. | Python, PyQt6, Ollama |
+| [Auto Video Publisher](https://github.com/LORD998/auto-video-publisher) | Automates video publishing workflows for YouTube, Instagram and TikTok. | Python, APIs, automation |
+| [Boost AI Server](https://github.com/LORD998/boost-ai-server) | Backend for an AI-powered productivity tool. | TypeScript, Node.js, APIs |
+| [Sites Model](https://github.com/LORD998/Sites-model) | Reusable website templates for freelance projects. | HTML, CSS, web development |
+
+## GitHub activity
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=LORD998&show_icons=true&theme=react&hide_border=true&count_private=true&bg_color=0d1117&title_color=66f7d5&icon_color=b78cff" alt="Martins's GitHub statistics" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LORD998&layout=compact&theme=react&hide_border=true&bg_color=0d1117&title_color=66f7d5" alt="Most used languages" width="49%" />
+</div>
+
+## 🚀 Featured Highlight
 
 <div align="center">
   <a href="https://github.com/LORD998/cortex-ai">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=LORD998&repo=cortex-ai&theme=react&hide_border=true&bg_color=0d1117&title_color=00FFCC&icon_color=00FFCC" alt="Cortex AI Project" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=LORD998&repo=cortex-ai&theme=react&hide_border=true&bg_color=0d1117&title_color=66f7d5&icon_color=b78cff" alt="Cortex AI Project" />
   </a>
 </div>
 
----
-
-## 🌍 Languages
-
 <div align="center">
-  <img src="https://img.shields.io/badge/Portuguese-Native-2E8B57?style=flat-square&logo=google-translate&logoColor=white" alt="PT" />
-  <img src="https://img.shields.io/badge/German-B1_Level-FFA500?style=flat-square&logo=google-translate&logoColor=white" alt="DE" />
-  <img src="https://img.shields.io/badge/English-Fluent-4169E1?style=flat-square&logo=google-translate&logoColor=white" alt="EN" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LORD998/LORD998/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LORD998/LORD998/output/github-contribution-grid-snake.svg" />
+    <img src="https://raw.githubusercontent.com/LORD998/LORD998/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake animation" width="92%" />
+  </picture>
 </div>
 
-<br/>
+## Languages
+
+- Portuguese — native
+- German — A1
+- English — basic
+- Spanish and French — basic
+
 <div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="80%" />
+  <sub>Building useful things, one commit at a time.</sub>
 </div>
