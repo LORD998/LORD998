@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="brain_v3.svg" alt="Animated neural network banner for Marcos Martins" width="100%" />
+<img src="brain_v3.svg" alt="Animated neural network banner for Martins" width="100%" />
 </div>
 
 <br />
