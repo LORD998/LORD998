@@ -13,6 +13,10 @@
 </a>
 </div>
 
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=66F7D5&center=true&vCenter=true&width=600&lines=Building+practical+software;Automating+repetitive+work;Turning+ideas+into+working+products" alt="Typing animation" />
+</div>
+
 ## About me
 
 I am a Portuguese IT and web development professional based in Braunschweig, Germany. I enjoy building practical software, automating repetitive work and turning ideas into working products.
@@ -36,18 +40,7 @@ I am a Portuguese IT and web development professional based in Braunschweig, Ger
 | [Boost AI Server](https://github.com/LORD998/boost-ai-server) | Backend for an AI-powered productivity tool. | TypeScript, Node.js, APIs |
 | [Sites Model](https://github.com/LORD998/Sites-model) | Reusable website templates for freelance projects. | HTML, CSS, web development |
 
-<div align="center">
-<a href="https://github.com/LORD998/cortex-ai">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=LORD998&repo=cortex-ai&theme=react&hide_border=true&bg_color=0d1117&title_color=66f7d5&icon_color=b78cff" alt="Cortex AI Project" />
-</a>
-</div>
-
 ## GitHub activity
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=LORD998&show_icons=true&theme=react&hide_border=true&count_private=true&bg_color=0d1117&title_color=66f7d5&icon_color=b78cff" alt="Martins's GitHub statistics" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LORD998&layout=compact&theme=react&hide_border=true&bg_color=0d1117&title_color=66f7d5" alt="Most used languages" width="49%" />
-</div>
 
 <div align="center">
 <picture>
